@@ -1,0 +1,12 @@
+.iconScroll {
+    position: fixed;
+    bottom: 54px;
+    width: 100%;
+    z-index: 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.iconScroll-hidden {
+    display: none;
+}
